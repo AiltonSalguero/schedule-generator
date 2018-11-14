@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "821370261987",
+    "firebase_url": "https://schedulegenerator-2e88f.firebaseio.com",
+    "project_id": "schedulegenerator-2e88f",
+    "storage_bucket": "schedulegenerator-2e88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821370261987:android:19feb2f4476bc831",
+        "android_client_info": {
+          "package_name": "com.synergy.fiis.schedulegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821370261987-1bd95b6ts38jg103fmdj7u6h4htbm22t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-V7cKG7a4co9wfexRrC4mUX2N2CP8lio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
